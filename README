@@ -1,6 +1,6 @@
-Neural Network for Code Generation in 
-Compilers 
+Neural Network for Code Generation in Compilers 
 By Himanshi Choubal-CTYCCE26CSE606 
+
  Input: The model takes a simple C language math expression, like a + b * c. 
  Output: It then translates this C expression into its equivalent assembly code, 
 which is the low-level instructions a computer's processor can understand. 
